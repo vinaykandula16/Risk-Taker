@@ -12,4 +12,6 @@ The vulnerabilities of various cities are first visualized for different months.
 There are various hazards such as monsoon, rain storm, flood, cyclone and many more which effect the climate.
 The KPIs, scatter plot and distribution charts are used to analyze the values by comparing various hazards together.
 The map provides what are the places affected by the climate are displayed as the bubble on the chart.
+
+#Need to be updated
  

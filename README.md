@@ -16,3 +16,5 @@ The map provides what are the places affected by the climate are displayed as th
 
 #Need to be updated
  
+
+
